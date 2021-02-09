@@ -1,1 +1,1 @@
-# activemq 和 zookeeper 做集群操作
+# activemq 和 zookeeper 做集群
