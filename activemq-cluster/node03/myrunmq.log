@@ -1,0 +1,4 @@
+INFO: Loading '/Users/hudewu/Desktop/dev/apache-activemq-5.15.9//bin/env'
+INFO: Using java '/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/bin/java'
+INFO: Starting - inspect logfiles specified in logging.properties and log4j.properties to get details
+INFO: pidfile created : '/Users/hudewu/Desktop/dev/apache-activemq-5.15.9//data/activemq.pid' (pid '3738')
